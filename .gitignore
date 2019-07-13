@@ -1,2 +1,4 @@
 config.py
 __pycache__
+citibike_tripdata
+citibike_tripdata.csv
