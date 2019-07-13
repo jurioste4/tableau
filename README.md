@@ -1,5 +1,7 @@
 # tableau
+I then loaded it on a HTML/CSS web page useing jableau public API : https://jurioste4.github.io/html_pages/tableau.html
 
+see it on Tableau public : https://public.tableau.com/profile/jessica.j.green#!/vizhome/Citydata_map/Story1
 I was tasked with useing data from new Yourk Citi Bike Program : https://en.wikipedia.org/wiki/Citi_Bike
 
 there API they have CSV files for down load : https://www.citibikenyc.com/system-data
