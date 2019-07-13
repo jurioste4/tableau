@@ -29,7 +29,7 @@ Gender (Zero=unknown; 1=male; 2=female)
 
 Year of Birth
 
-![Images/dashbord.png](Images/dashbord.png)
+![dashbord.png](dashbord.png)
 
 I loaded the CSV file. and my First chart was I created : was a map useing Lat and Long for both start points and end points on a map so when an address is picked it till connet to all posable end points that were were done. 
 
